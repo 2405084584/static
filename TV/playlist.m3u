@@ -1999,74 +1999,8 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/mast
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd
-#EXTINF:-1 tvg-name="456840" tvg-logo="https://i.meee.com.tw/QZr7MIY.png" group-title="午夜",JStar
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=697deae2fcc2a917eab17b4574bf4ad8ad64338d9b61bb4178f41d23b8100b1b4422a1e810a19abc1dd3a32b270d3c9158588f06eb02258a6e54ff379a8b77a4f12f46a1b87c0fb25d84ebbf45c0460f
-#EXTINF:-1 tvg-name="456834" tvg-logo="https://i.meee.com.tw/9t5s6Q7.png" group-title="午夜",松视1
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=13510974a8c45d0e687c2572a4543ce68468b976b446bc41471db984f0a0c63591625cea0017a748dcc31159487a2e228817035d5ee05a4f3f1a240a0326184a107d79c0d770a2984ed2a0e5d883d847
-#EXTINF:-1 tvg-name="456835" tvg-logo="https://i.meee.com.tw/yWRNnRV.png" group-title="午夜",松视2
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=4c9e4bc337d16db65df3bf8304e32a8bc6d82b9a0ed5d783e35448bac8f2a35d369bf127f14465964bd25701f9df5463500c52c3384fef3d46f74d675d672a0139f3bd18e3339a5f8afb8cc524929524
-#EXTINF:-1 tvg-name="456842" tvg-logo="https://i.meee.com.tw/Vpa36J9.png" group-title="午夜",香蕉台
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=08ff31431545e9ce3d735094adf34563fbce0efab7e4aff5819ded967f4bf2b0af358a378010ff99ab326c4c2dbacf79d4428ba192d288e81fa9e6dfd54a0e308f3c6f49bc4f72df4257884014959d9e
-#EXTINF:-1 tvg-name="456838" tvg-logo="https://i.meee.com.tw/0SrkK0X.png" group-title="午夜",潘朵啦
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=6c6786e822589d235ff8c51a4a63ac613567843a6e09a960b27ba912122f9bac745e17e39bfd04b5a31c85de65e4b542ae093e0b98e5bd4ded0285ce5fdf9d85cb0a036bbfbdfc37e95af6aa18265fe6
-#EXTINF:-1 tvg-name="456831" tvg-logo="https://i.meee.com.tw/FsridUQ.png" group-title="午夜",彩虹🅴
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=f067d62e8fc4b1c954aab739b500900080cd4a3c32cf8b760c4ce5a2aebc5a52f50f7cfb2c4c9daf6144be033eecd0594d1ade9fee2f672378ff3f1d379ae2511c0f3239ab0177511a5b0ba153eff3e6
-#EXTINF:-1 tvg-name="456841" tvg-logo="https://i.meee.com.tw/WbZYps2.png" group-title="午夜",驚艷台
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=42ef86bc8fc3d884b1e6c473fe07678fb9a40202793601d879606a5b4dab9ebbeeab4de34647d33d5b309f2976c57a7c0a9a5d187077d682d9cd483b60453c2eb0b014fbd1b9e1d6a0b2383f597719a6
-#EXTINF:-1 tvg-name="麻豆" tvg-logo="https://i.meee.com.tw/9QLP0EQ.png" group-title="午夜",麻豆
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=2817aa548e58fdf1251d423106d1adb3526d700795beab3e38145255150926b7836e3e242c47592864e5093186c5fc4064cc8903bbffc45268a75fd4fa4513b5ca8bd79e7946b7ec4c656169443838b2
-#EXTINF:-1 tvg-name="中字劇場1" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="午夜",中字劇場1
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=de2101144e92bb6e392a457005123ee60adcc1183e7a2454debbaf1adaf364ef5258b483664db36940119733ca41e251a72c0a569a026067639d25b097f20b535e3156e9eb5592205223f0b49551d532
-#EXTINF:-1 tvg-name="中字劇場2" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="午夜",中字劇場2
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=72d3eb3087ef4d8b8fe7b9577373665a5d3a206a61d2ffb0bc172daed498b4e5b61c1be9d88cd10b2fed221ed2ce07913621cb7949d75594fa87ce049f2562686778014a88ce08f21492fe8b8a07e919
-#EXTINF:-1 tvg-name="中字劇場3" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="午夜",中字劇場3
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=b334c4c5b907f99df2e0465c4c2ca932b827f0582ee8eb9c7c6a6f3da440b28c7fc1e63da6b89dfcec3285d46e4515b714c443da8519959ddbc7656044841ead0c7808e85b1ca0c8c77080508619cdca
-#EXTINF:-1 tvg-name="中字劇場4" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="午夜",中字劇場4
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=c34b6d349f89248200642714c39887fa3066b0b9cf702316ac5be6760ef0b3cb6ac6e6d933a9e9c3d95954a403012324e61cf6f88b717fcddaee002484f92fc13877b5130a8d36f9e155f9054cce8e02
-#EXTINF:-1 tvg-name="中字劇場5" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="午夜",中字劇場5
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=37c90042728b0aa3db2066c46ec1b9897304ae67448aee9526578ad56297802bbf0b48ced16e10e0a71a7eb83cce018c23eb334425733449e9947edf04d5527f9ae5fd01ef0a8811c146d310388bfea4
-#EXTINF:-1 tvg-name="中字劇場6" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="午夜",中字劇場6
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=eea116836c30a508fbd43e6c32dd373798d4ed68fc4e176c4d44a543189d7f372225dffc8c8456f640ed956e9cda451db0f09d4b7516af960e3e98b7efe5c4c68604de5bf6b69c050efa70a593307da3
-#EXTINF:-1 tvg-name="高清无码1" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="午夜",高清无码1
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=021db96e6aed3612757c857ea657a4cb62eaaebb6b8dd3cc45e6fca408c7cfe4dcbf55366efe5b04e281b62f2426c889e8806d3d04557d8f5f5df31c139767aa864b1b1cf5fb19f6b3cec4876523c6fe
-#EXTINF:-1 tvg-name="高清无码2" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="午夜",高清无码2
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=1cc3c30c6102f764e1ee66e81df8c4644312db92d579352d6878e6d2beed9841b724483392242d0813e3b5f7e0bf8786f7d7985d036a27c39f10f8086578f3a8020c73c51343778692cc2fb4ce4e954b
-#EXTINF:-1 tvg-name="高清无码3" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="午夜",高清无码3
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=5bb557643d51e2130282b90d4def6f19ab305e49ca1e098d5e173de7fadea1bb47e44e9e5d779ebbb74b37de8f0bf026272c6cf5bb25966101f758d07fe968412a5e6dc5e56874f28cfb617f9e8a27b1
-#EXTINF:-1 tvg-name="高清无码4" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="午夜",高清无码4
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=ee8c0e13438f4bff155baeef14fa07060da3be8c79f511e9fbeb9e3499199d6194f96b1ea6c275c6f6cfbd071eda2893fa6356afc614b2362096110de947c83f7681f4d319bc571d630d929dd1c05027
-#EXTINF:-1 tvg-name="高清无码5" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="午夜",高清无码5
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=0c50c71f278e29256cb124413a541d3e17d0eb9547f923701c379a4d3d57511bc0cb4be5971e9fc2a18293d134bb8058151ee1aaae1e813eb7ebe7c7762bac981c9b2529fc4a29f09cedcbcc9cc72eed
-#EXTINF:-1 tvg-name="高清无码6" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="午夜",高清无码6
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=0362abfa1cc67d5d911932051669a8281b6d1e4a2b8195ee1022007639069edf3fd659ee7c89113a00d7071ad212647b1bb0ab7e5296974dd5ec33d1bfff689c0796ff06c89c43ca260072809fe96c49
-#EXTINF:-1 tvg-name="高清无码7" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="午夜",高清无码7
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=f0dedb781622b1f9fa0d94b3818eb5bdf85d43240524cfd7049428d1919266153cf944551b2454fe5f780b6672f1d90f7f60792e23fc4ce4e818bd0e3ad44b6e880f63231e2c4729e0658f3f2e8ed683
-#EXTINF:-1 tvg-name="456834" tvg-logo="https://i.meee.com.tw/9t5s6Q7.png" group-title="花园",松視1
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=387157db6e103fff89c3477ca9c92f4743ade3db2b710150e5c7bc2d8ff35bfe1f9ca891f8697464d1ae4dfb716119fc77e158a62cda6ae94f44d66bdaa0c7eda3083d3f93dea40051fea9230d2159bb
-#EXTINF:-1 tvg-name="456835" tvg-logo="https://i.meee.com.tw/yWRNnRV.png" group-title="花园",松視2
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=06b3b3abc0f9fcc6df72e1522872cc606657aed2f93b3912555bd4c7124795f7dffedfa8930d63d41b05d0aefe24a3413eaed366e5126e6234261117464661356f3ef533c511f7a378e25b7f27964edf
-#EXTINF:-1 tvg-name="456836" tvg-logo="https://i.meee.com.tw/C9CMGvB.png" group-title="花园",松視3
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=2c2f1f9c5acdc7f4b4262c04c3ae77e94077756911b374af85c1869f8303f0e6ffe9938d47e63d4db4175ac2f818f9ab75caae9ee229663b808e565851546c401550c41fb81b87223593610ca38814ec
-#EXTINF:-1 tvg-name="456841" tvg-logo="https://i.meee.com.tw/WbZYps2.png" group-title="花园",驚艷台
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=96c22cc011c8d640d38b6803edfaf6b87f3f968327520c0be5ed7dad61730d51b8390a03fedbe09896eed1fbf21f6f07e2e63d7fafb6ff3098aebe3bc72bcb9cc2ce54545eed425542b9016f7541ab4e
-#EXTINF:-1 tvg-name="456838" tvg-logo="https://i.meee.com.tw/0SrkK0X.png" group-title="花园",潘朵啦
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=61c8367fb3967c997f14b80d288bb7c597d889d6aaa8db51e229bb2352678b3e7f9e92384b473d8291015cd4aa8aea5fe43877e567cb907b44ae65b47991aa61f058709d99eb28ff3ef8e6abf8de183f
-#EXTINF:-1 tvg-name="456842" tvg-logo="https://i.meee.com.tw/Vpa36J9.png" group-title="花园",香蕉台
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=fb5965977f74374649ad5eb3125167a0098b575633ba31a5f0a2277a5b54bc5be1dabf4b7b78a0145c38aa982d6fed29326aab78413c264f2e5a73f91f6e0a1cd5fdab6c6d3b456cb4a5a24734ca1c16
 
 
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-logo="",香蕉台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 #EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
 #EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
@@ -2078,138 +2012,22 @@ http://125.227.210.55:3031/VideoInput/play.ts
 #EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
 http://125.227.210.55:3033/VideoInput/play.ts
 
-#EXTINF:-1 group-title="成人电视台" tvg-id="3255" tvg-logo="http://epg.one/img2/3255.png",XY Max
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6286/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="3256" tvg-logo="http://epg.one/img2/3256.png",XY Mix
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6287/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dusk-tv-nl.svg",Dusk
-http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/694
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://secretcircle.com/sc_logo_trans.png",Secret Circle
-http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/679
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://tvdigitalefacile.it/wp-content/uploads/2023/01/canale-170-sct-pay-digitale-terrestre.jpg",CentoXCento TV
-http://91.218.50.136:8080/Rose35torres/iB7101/2601
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://sat.nov.ru/images/pinko_tv.png",Pinko Club TV
-http://cu.nonland.net:8080/cctv6173/cvvg6698/61906
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hot-pt.png",Hot
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6275/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="4913" tvg-logo="http://epg.one/img2/4913.png",Alba XXX HD1
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12106/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7759" tvg-logo="http://epg.one/img2/7759.png",Alba XXX HD2
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12194/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="4948" tvg-logo="http://epg.one/img2/4948.png",Veraporn Group Sex
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12141/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="4949" tvg-logo="http://epg.one/img2/4949.png",Veraporn Group Sex 2
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12142/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="3140" tvg-logo="http://epg.one/img2/3140.png",Babes
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6172/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="3158" tvg-logo="http://epg.one/img2/3158.png",Cum Louder
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6189/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="3164" tvg-logo="http://epg.one/img2/3164.png",Digital Desire
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6195/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="3214" tvg-logo="http://epg.one/img2/3214.png",Private.com
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6245/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="3216" tvg-logo="http://epg.one/img2/3216.png",Reality Kings
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6247/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="3234" tvg-logo="http://epg.one/img2/3234.png",Vixen
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6265/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7721" tvg-logo="http://epg.one/img2/7721.png",Exotic 4k
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12107/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7723" tvg-logo="http://epg.one/img2/7723.png",Erotica X
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12109/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7725" tvg-logo="http://epg.one/img2/7725.png",DP Fanatics
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12111/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7726" tvg-logo="http://epg.one/img2/7726.png",Dirty Wives Club
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12122/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7730" tvg-logo="http://epg.one/img2/7730.png",Deep Throat Sirens
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12138/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7731" tvg-logo="http://epg.one/img2/7731.png",Deep Lush
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12139/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7733" tvg-logo="http://epg.one/img2/7733.png",Dane Jones
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12143/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7737" tvg-logo="http://epg.one/img2/7737.png",Family Strokes
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12156/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7738" tvg-logo="http://epg.one/img2/7738.png",Cum4k
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12157/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7739" tvg-logo="http://epg.one/img2/7739.png",Cum Perfection
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12158/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7741" tvg-logo="http://epg.one/img2/7741.png",Bratty Sis
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12161/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7742" tvg-logo="http://epg.one/img2/7742.png",Brand New Amateurs
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12162/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7744" tvg-logo="http://epg.one/img2/7744.png",BBC Pie
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12164/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7746" tvg-logo="http://epg.one/img2/7746.png",Bang POV
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12166/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7747" tvg-logo="http://epg.one/img2/7747.png",Bang Bus
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12167/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7749" tvg-logo="http://epg.one/img2/7749.png",Asshole Fever
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12169/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7755" tvg-logo="http://epg.one/img2/7755.png",Anal 4K
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12190/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7756" tvg-logo="http://epg.one/img2/7756.png",Amateur Boxxx
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12191/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7757" tvg-logo="http://epg.one/img2/7757.png",All Anal
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12192/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7758" tvg-logo="http://epg.one/img2/7758.png",Alex Legend
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12193/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",Blue TV
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/10348
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",Olero
-http://tv.diablotv.net:8080/vsolis0285/cdd09c8d827c/164505
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",Desire
-http://epicboss.live:80/bjune@teksavvy.com/5193594414/19523
 
-#EXTINF:-1 tvg-name="周日探花秀1" tvg-logo="https://live.fanmingming.cn/tv/周日探花秀1.png",周日探花秀1
-https://t33.cdn2020.com/video/m3u8/2026/01/31/a8191d75/index.m3u8
-#EXTINF:-1 tvg-name="书生" tvg-logo="https://live.fanmingming.cn/tv/书生.png",书生
-https://t33.cdn2020.com/video/m3u8/2026/01/21/7f23facb/index.m3u8
-#EXTINF:-1 tvg-name="普朗克" tvg-logo="https://live.fanmingming.cn/tv/普朗克.png",普朗克
-https://t33.cdn2020.com/video/m3u8/2026/01/21/9ed08331/index.m3u8
-#EXTINF:-1 tvg-name="周日探花秀2" tvg-logo="https://live.fanmingming.cn/tv/周日探花秀2.png",周日探花秀2
-https://t33.cdn2020.com/video/m3u8/2026/01/31/644a76a4/index.m3u8
-#EXTINF:-1 tvg-name="泉百华顶级大片" tvg-logo="https://live.fanmingming.cn/tv/泉百华顶级大片.png",泉百华顶级大片
-https://surrit.com/b7331b66-54c8-43e6-a506-50effb161d7b/playlist.m3u8
-#EXTINF:-1 tvg-name="周日探花秀3" tvg-logo="https://live.fanmingming.cn/tv/周日探花秀3.png",周日探花秀3
-https://t33.cdn2020.com/video/m3u8/2026/01/31/e5c7019e/index.m3u8
-#EXTINF:-1 tvg-name="探花秀4" tvg-logo="https://live.fanmingming.cn/tv/探花秀4.png",探花秀4
-https://t33.cdn2020.com/video/m3u8/2026/01/28/b0887187/index.m3u8
-#EXTINF:-1 tvg-name="探花6" tvg-logo="https://live.fanmingming.cn/tv/探花6.png",探花6
-https://t33.cdn2020.com/video/m3u8/2026/01/24/939c33b2/index.m3u8
-#EXTINF:-1 tvg-name="探花5" tvg-logo="https://live.fanmingming.cn/tv/探花5.png",探花5
-https://t33.cdn2020.com/video/m3u8/2026/01/28/2b93fa73/index.m3u8
-#EXTINF:-1 tvg-name="探花7" tvg-logo="https://live.fanmingming.cn/tv/探花7.png",探花7
-https://t33.cdn2020.com/video/m3u8/2026/01/10/b5929565/index.m3u8
-#EXTINF:-1 tvg-name="探花8" tvg-logo="https://live.fanmingming.cn/tv/探花8.png",探花8
-https://t33.cdn2020.com/video/m3u8/2026/01/10/e573bd27/index.m3u8
-#EXTINF:-1 tvg-name="探花9" tvg-logo="https://live.fanmingming.cn/tv/探花9.png",探花9
-https://t33.cdn2020.com/video/m3u8/2026/01/10/2a0bc374/index.m3u8
-#EXTINF:-1 tvg-name="探花10" tvg-logo="https://live.fanmingming.cn/tv/探花10.png",探花10
-https://t33.cdn2020.com/video/m3u8/2026/01/06/2486a5c2/index.m3u8
-
-#EXTINF:-1 tvg-name="多拉" tvg-logo="https://live.fanmingming.com/tv/多拉.png" group-title="其他1",多拉
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他1",惊艳
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 tvg-name="松₁" tvg-logo="https://live.fanmingming.com/tv/松₁.png" group-title="其他1",松₁
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 tvg-name="松₃" tvg-logo="https://live.fanmingming.com/tv/松₃.png" group-title="其他1",松₃
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
+#EXTINF:-1 tvg-name="惊艳" tvg-id="456841" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts&line=1
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
+#EXTINF:-1 tvg-name="惊艳" tvg-id="456841" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
 http://125.227.210.55:3016/VideoInput/play.ts&line=2
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
+#EXTINF:-1 tvg-name="惊艳" tvg-id="456841" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
 https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=96c22cc011c8d640d38b6803edfaf6b87f3f968327520c0be5ed7dad61730d51b8390a03fedbe09896eed1fbf21f6f07e2e63d7fafb6ff3098aebe3bc72bcb9cc2ce54545eed425542b9016f7541ab4e&line=3
 #EXTINF:-1 tvg-name="多拉" tvg-logo="https://live.fanmingming.com/tv/多拉.png" group-title="其他",潘多拉
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts&line=1
 #EXTINF:-1 tvg-name="多拉" tvg-logo="https://live.fanmingming.com/tv/多拉.png" group-title="其他",潘多拉
 https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=6c6786e822589d235ff8c51a4a63ac613567843a6e09a960b27ba912122f9bac745e17e39bfd04b5a31c85de65e4b542ae093e0b98e5bd4ded0285ce5fdf9d85cb0a036bbfbdfc37e95af6aa18265fe6&line=2
-#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
+#EXTINF:-1 tvg-name="香蕉台" tvg-id="456842" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts&line=1
-#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
+#EXTINF:-1 tvg-name="香蕉台" tvg-id="456842" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
 http://125.227.210.55:1009/VideoInput/play.ts&line=2
-#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
+#EXTINF:-1 tvg-name="香蕉台" tvg-id="456842" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
 https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=fb5965977f74374649ad5eb3125167a0098b575633ba31a5f0a2277a5b54bc5be1dabf4b7b78a0145c38aa982d6fed29326aab78413c264f2e5a73f91f6e0a1cd5fdab6c6d3b456cb4a5a24734ca1c16&line=3
 #EXTINF:-1 tvg-name="松₁" tvg-logo="https://live.fanmingming.com/tv/松₁.png" group-title="其他",松₁
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts&line=1
