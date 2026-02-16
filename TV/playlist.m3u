@@ -2001,24 +2001,12 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/mast
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd
 
 
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
-http://125.227.210.55:1009/VideoInput/play.ts
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
-http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台(125)
-http://125.227.210.55:3016/VideoInput/play.ts
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-logo="",Sex girl(125)
-http://125.227.210.55:3031/VideoInput/play.ts
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
-http://125.227.210.55:3033/VideoInput/play.ts
-
-
 #EXTINF:-1 tvg-name="惊艳" tvg-id="456841" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts&line=1
 #EXTINF:-1 tvg-name="惊艳" tvg-id="456841" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
-http://125.227.210.55:3016/VideoInput/play.ts&line=2
-#EXTINF:-1 tvg-name="惊艳" tvg-id="456841" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=96c22cc011c8d640d38b6803edfaf6b87f3f968327520c0be5ed7dad61730d51b8390a03fedbe09896eed1fbf21f6f07e2e63d7fafb6ff3098aebe3bc72bcb9cc2ce54545eed425542b9016f7541ab4e&line=3
+https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=96c22cc011c8d640d38b6803edfaf6b87f3f968327520c0be5ed7dad61730d51b8390a03fedbe09896eed1fbf21f6f07e2e63d7fafb6ff3098aebe3bc72bcb9cc2ce54545eed425542b9016f7541ab4e&line=2
+#EXTINF:-1 group-title="其他" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
+http://125.227.210.55:3016/VideoInput/play.ts
 #EXTINF:-1 tvg-name="多拉" tvg-logo="https://live.fanmingming.com/tv/多拉.png" group-title="其他",潘多拉
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts&line=1
 #EXTINF:-1 tvg-name="多拉" tvg-logo="https://live.fanmingming.com/tv/多拉.png" group-title="其他",潘多拉
@@ -2026,9 +2014,9 @@ https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=6c6786e822589d23
 #EXTINF:-1 tvg-name="香蕉台" tvg-id="456842" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts&line=1
 #EXTINF:-1 tvg-name="香蕉台" tvg-id="456842" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
-http://125.227.210.55:1009/VideoInput/play.ts&line=2
-#EXTINF:-1 tvg-name="香蕉台" tvg-id="456842" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
-https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=fb5965977f74374649ad5eb3125167a0098b575633ba31a5f0a2277a5b54bc5be1dabf4b7b78a0145c38aa982d6fed29326aab78413c264f2e5a73f91f6e0a1cd5fdab6c6d3b456cb4a5a24734ca1c16&line=3
+https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=fb5965977f74374649ad5eb3125167a0098b575633ba31a5f0a2277a5b54bc5be1dabf4b7b78a0145c38aa982d6fed29326aab78413c264f2e5a73f91f6e0a1cd5fdab6c6d3b456cb4a5a24734ca1c16&line=2
+#EXTINF:-1 group-title="其他" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台2
+http://125.227.210.55:1009/VideoInput/play.ts
 #EXTINF:-1 tvg-name="松₁" tvg-logo="https://live.fanmingming.com/tv/松₁.png" group-title="其他",松₁
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts&line=1
 #EXTINF:-1 tvg-name="松₁" tvg-logo="https://live.fanmingming.com/tv/松₁.png" group-title="其他",松₁
@@ -2037,12 +2025,6 @@ https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=13510974a8c45d0e
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts&line=1
 #EXTINF:-1 tvg-name="松₃" tvg-logo="https://live.fanmingming.com/tv/松₃.png" group-title="其他",松₃
 https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/HY.php?url=2c2f1f9c5acdc7f4b4262c04c3ae77e94077756911b374af85c1869f8303f0e6ffe9938d47e63d4db4175ac2f818f9ab75caae9ee229663b808e565851546c401550c41fb81b87223593610ca38814ec&line=2
-#EXTINF:-1 tvg-name="奧視2台(125)" tvg-logo="https://live.fanmingming.com/tv/奧視2台(125).png" group-title="其他",奧視2台(125)
-http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 tvg-name="Sex girl(125)" tvg-logo="https://live.fanmingming.com/tv/Sex girl(125).png" group-title="其他",Sex girl(125)
-http://125.227.210.55:3031/VideoInput/play.ts
-#EXTINF:-1 tvg-name="奧視3台(125)" tvg-logo="https://live.fanmingming.com/tv/奧視3台(125).png" group-title="其他",奧視3台(125)
-http://125.227.210.55:3033/VideoInput/play.ts
 #EXTINF:-1 tvg-name="JStar" tvg-logo="https://live.fanmingming.com/tv/JStar.png" group-title="其他",JStar
 https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/WY.php?url=697deae2fcc2a917eab17b4574bf4ad8ad64338d9b61bb4178f41d23b8100b1b4422a1e810a19abc1dd3a32b270d3c9158588f06eb02258a6e54ff379a8b77a4f12f46a1b87c0fb25d84ebbf45c0460f
 #EXTINF:-1 tvg-name="彩虹🅴" tvg-logo="https://live.fanmingming.com/tv/彩虹🅴.png" group-title="其他",彩虹🅴
