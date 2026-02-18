@@ -1,4 +1,4 @@
-#EXTM3U  x-tvg-url="https://epg.cdn.loc.cc/xml"
+#EXTM3U  x-tvg-url="https://epg.cdn.loc.cc/xml,https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视",CCTV1
 https://gjruwpzkilrn.ap-northeast-1.clawcloudrun.com/CC.php?url=3565b17c80965786b5375ef67355f252f4d02edbba11945419f3be0d20c2c8a39549b190c9bb71492289ee267e11cba6e36d66200fdbb4b3ad65f6b475d7a7c12888b0cb11557bb7eb32441423b28ba6
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视",CCTV2
