@@ -1,127 +1,148 @@
 [
   {
-    "id": "my_source_50",
+    "id": "premium_source_1",
     "name": "自用-AV-155资源",
     "baseUrl": "https://155api.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_51",
+    "id": "premium_source_2",
     "name": "自用-AV-百万资源",
     "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_68",
+    "id": "premium_source_3",
     "name": "自用-性吧资源",
     "baseUrl": "https://xingba111.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_53",
+    "id": "premium_source_4",
     "name": "自用-AV-AIvin",
     "baseUrl": "http://lbapiby.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_54",
+    "id": "premium_source_5",
     "name": "自用-AV-JKUN资源",
     "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_55",
+    "id": "premium_source_6",
     "name": "自用-AV-91麻豆",
     "baseUrl": "https://91md.me/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_56",
+    "id": "premium_source_7",
     "name": "自用-AV-乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_57",
+    "id": "premium_source_8",
     "name": "自用-AV-奥斯卡资源",
     "baseUrl": "https://aosikazy.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_58",
+    "id": "premium_source_9",
     "name": "自用-AV-奶香香",
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_59",
+    "id": "premium_source_10",
     "name": "自用-AV-森林资源",
     "baseUrl": "https://slapibf.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_60",
+    "id": "premium_source_11",
     "name": "自用-AV-玉兔资源",
     "baseUrl": "https://apiyutu.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_61",
+    "id": "premium_source_12",
     "name": "自用-AV-番号资源",
     "baseUrl": "http://fhapi9.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_62",
+    "id": "premium_source_13",
     "name": "自用-AV-精品资源",
     "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_63",
+    "id": "premium_source_14",
     "name": "自用-AV-老色逼资源",
     "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_64",
+    "id": "premium_source_15",
     "name": "自用-细胞采集黄色",
     "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_65",
+    "id": "premium_source_16",
     "name": "自用-AV-辣椒资源",
     "baseUrl": "https://apilj.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_66",
+    "id": "premium_source_17",
     "name": "自用-AV-鲨鱼资源",
     "baseUrl": "https://shayuapi.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   },
   {
-    "id": "my_source_67",
+    "id": "premium_source_18",
     "name": "自用-黄色资源啊啊",
     "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_19",
+    "name": "自用-桃花资源",
+    "baseUrl": "https://thzy1.me/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_20",
+    "name": "自用-fqzy",
+    "baseUrl": "https://fqzy.me//api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_21",
+    "name": "自用-性细胞",
+    "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
   }
